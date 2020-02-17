@@ -1,1 +1,1 @@
-This is myapp version 1.1
+This is myapp version 1.2
